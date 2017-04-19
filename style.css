@@ -1,0 +1,41 @@
+
+body{
+
+	background: lightgrey;
+}
+
+.list{
+
+	background: white;
+	height: 1024px;
+	width: 1024px;
+	margin: 40px auto;
+	border: 1px solid #8f8f8f;
+
+}
+
+
+
+img{
+	height: 218px;
+	margin-left: 250px;
+}
+
+.wrapper{
+margin-left: 185px;
+margin-top: 50px;
+width: 670px;
+}
+.n1{
+
+	border-bottom: 1px solid grey;
+	height: 40px;
+}
+
+.n3{
+	text-indent: 35px;
+}
+
+a{
+	padding-left: 35px;
+}
